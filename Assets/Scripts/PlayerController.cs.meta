@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8801ba13b7d0df4292b303a2786e595
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Puck: {fileID: 1857447021628237018, guid: ac0123bf5a17f80458cc14daef988175, type: 3}
+  - Blocky: {fileID: 1468824125531181341, guid: 646f028a94035834c84cf7f091c2bb41,
+      type: 3}
+  - scoreText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
